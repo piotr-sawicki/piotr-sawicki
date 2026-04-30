@@ -2,11 +2,13 @@
 
 Senior Software Engineer & PhD in AI with 10+ years in aerospace and engineering software.
 
-## 🔭 Currently working on
+📫 LinkedIn: [linkedin.com/in/piotrsawicki92](https://www.linkedin.com/in/piotrsawicki92/)
 
-* AI-based defect detection for additive manufacturing
-* Scientific computing and optimization tools
-* Engineering-focused AI systems
+## 📌 Projects
+
+* [Defect Detection System](https://github.com/piotr-sawicki/defect-detection-system) — industrial computer vision for additive manufacturing
+* [FEM Truss Optimization](https://github.com/piotr-sawicki/FEM_optimization) — structural optimization with FEM
+* [MergePDFs](https://github.com/piotr-sawicki/MergePDFs) — desktop automation tool
 
 ## 🌱 Currently learning
 
@@ -26,12 +28,6 @@ Senior Software Engineer & PhD in AI with 10+ years in aerospace and engineering
 
 Python • PyTorch • NumPy • SciPy • OpenCV • Pandas • FastAPI • PyQt • MATLAB
 
-## 📌 Selected projects
-
-* [Defect Detection System](https://github.com/piotr-sawicki/defect-detection-system) — industrial computer vision
-* [FEM Truss Optimization](https://github.com/piotr-sawicki/FEM_optimization) — structural optimization with FEM
-* [MergePDFs](https://github.com/piotr-sawicki/MergePDFs) — desktop automation tool
-
 ## 🏭 Background
 
 * 10+ years in aerospace industry
@@ -44,7 +40,4 @@ Python • PyTorch • NumPy • SciPy • OpenCV • Pandas • FastAPI • PyQ
 
 - 📝 Publication: [Enhancing PBF-LB Process Monitoring: Transfer and Classic Learning Techniques for CNNs](https://doi.org/10.3390/ma18133026) *Materials (MDPI), 2025*
 
-## 📫 Contact
-
-* LinkedIn: [linkedin.com/in/piotrsawicki92](https://www.linkedin.com/in/piotrsawicki92/)
 
