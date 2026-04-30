@@ -38,6 +38,12 @@ Python • PyTorch • NumPy • SciPy • OpenCV • Pandas • FastAPI • PyQ
 * Co-inventor of 25 patents
 * PhD in AI for industrial computer vision
 
+## 📚 Research
+
+- 📄 PhD Thesis: [AI for Industrial Computer Vision and Defect Detection](https://bip.pwr.edu.pl/d/zGBUKOTtQKxVvBFh6GDxYBxZISnp9QU8OS39DQQpVVm8QRQxpXhsJFXkSGQcBBxNZBURGcXhdVR8/rozprawa_doktorska__piotr_sawicki.pdf)
+
+- 📝 Publication: [Enhancing PBF-LB Process Monitoring: Transfer and Classic Learning Techniques for CNNs](https://doi.org/10.3390/ma18133026) *Materials (MDPI), 2025*
+
 ## 📫 Contact
 
 * LinkedIn: [linkedin.com/in/piotrsawicki92](https://www.linkedin.com/in/piotrsawicki92/)
