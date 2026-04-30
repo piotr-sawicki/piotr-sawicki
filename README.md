@@ -28,9 +28,9 @@ Python • PyTorch • NumPy • SciPy • OpenCV • Pandas • FastAPI • PyQ
 
 ## 📌 Selected projects
 
-* Defect Detection for Additive Manufacturing
-* FEM Truss Optimization
-* Engineering Automation Tools
+* [Defect Detection System](https://github.com/piotr-sawicki/defect-detection-system)
+* [FEM Truss Optimization](https://github.com/piotr-sawicki/FEM_optimization)
+* [Engineering Automation Tools](https://github.com/piotr-sawicki/MergePDFs)
 
 ## 🏭 Background
 
@@ -40,4 +40,5 @@ Python • PyTorch • NumPy • SciPy • OpenCV • Pandas • FastAPI • PyQ
 
 ## 📫 Contact
 
-* LinkedIn: linkedin.com/in/piotrsawicki92
+* LinkedIn: [linkedin.com/in/piotrsawicki92](https://www.linkedin.com/in/piotrsawicki92/)
+
