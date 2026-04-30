@@ -1,6 +1,6 @@
 # Applied AI for Engineering
 
-Senior Software Engineer & PhD in AI with 10+ years of experience in aerospace and engineering software.
+Senior Software Engineer & PhD in AI with 10+ years in aerospace and engineering software.
 
 ## 🔭 Currently working on
 
@@ -10,9 +10,9 @@ Senior Software Engineer & PhD in AI with 10+ years of experience in aerospace a
 
 ## 🌱 Currently learning
 
-* PyTorch
+* Modern PyTorch workflows
 * LLM/RAG systems
-* Modern AI deployment workflows
+* AI deployment & MLOps fundamentals
 
 ## 💻 Main areas
 
@@ -28,9 +28,9 @@ Python • PyTorch • NumPy • SciPy • OpenCV • Pandas • FastAPI • PyQ
 
 ## 📌 Selected projects
 
-* [Defect Detection System](https://github.com/piotr-sawicki/defect-detection-system)
-* [FEM Truss Optimization](https://github.com/piotr-sawicki/FEM_optimization)
-* [Engineering Automation Tools](https://github.com/piotr-sawicki/MergePDFs)
+* [Defect Detection System](https://github.com/piotr-sawicki/defect-detection-system) — industrial computer vision
+* [FEM Truss Optimization](https://github.com/piotr-sawicki/FEM_optimization) — structural optimization with FEM
+* [MergePDFs](https://github.com/piotr-sawicki/MergePDFs) — desktop automation tool
 
 ## 🏭 Background
 
