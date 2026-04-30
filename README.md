@@ -1,5 +1,3 @@
-# Piotr Sawicki
-
 Senior Software Engineer & PhD in AI with 10+ years of experience in aerospace and engineering software.
 
 ## 🔭 Currently working on
