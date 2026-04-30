@@ -1,16 +1,43 @@
-## Hi there 👋
+# Piotr Sawicki
 
-<!--
-**piotr-sawicki/piotr-sawicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer & PhD in AI with 10+ years of experience in aerospace and engineering software.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AI-based defect detection for additive manufacturing
+* Scientific computing and optimization tools
+* Engineering-focused AI systems
+
+## 🌱 Currently learning
+
+* PyTorch
+* LLM/RAG systems
+* Modern AI deployment workflows
+
+## 💻 Main areas
+
+* Computer Vision
+* Scientific Computing
+* FEM & Optimization
+* Applied AI
+* Python Engineering
+
+## 🛠 Tech stack
+
+Python • PyTorch • NumPy • SciPy • OpenCV • Pandas • FastAPI • PyQt • MATLAB
+
+## 📌 Selected projects
+
+* Defect Detection for Additive Manufacturing
+* FEM Truss Optimization
+* Engineering Automation Tools
+
+## 🏭 Background
+
+* 10+ years in aerospace industry
+* Co-inventor of 25 patents
+* PhD in AI for industrial computer vision
+
+## 📫 Contact
+
+* LinkedIn: linkedin.com/in/piotrsawicki92
